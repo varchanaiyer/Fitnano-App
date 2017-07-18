@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_time_table"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="My Time Table" />
+        <item
+            android:id="@+id/nav_add_edit_student"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Add/Edit Student" />
+        <item
+            android:id="@+id/nav_add_edit_time_table1"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Add/Edit Time Table" />
+        <item
+            android:id="@+id/nav_view_class"
+            android:icon="@drawable/ic_menu_send"
+            android:title="View Current Status of the Class" />
+
+        <item
+            android:id="@+id/nav_student_attendance"
+            android:icon="@drawable/ic_menu_send"
+            android:title="View Student's Attendance" />
+
+    </group>
+
+
+
+</menu>

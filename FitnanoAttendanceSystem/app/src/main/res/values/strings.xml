@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitnanoAttendanceSystem</string>
+    <string name="title_activity_teacher_user_first_page">teacher_user_first_page</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_teacher_user_page1">teacher_user_page1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_management_user_page">Management_user_page</string>
+    <string name="title_activity_for_teachers">for_teachers</string>
+    <string name="title_activity_user_parents">user_parents</string>
+</resources>

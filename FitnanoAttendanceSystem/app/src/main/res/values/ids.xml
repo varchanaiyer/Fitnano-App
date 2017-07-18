@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content_management_user_page1" type="id" />
+    <item name="content_management_user_page" type="id" />
+    <item name="content_for_teachers" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="content_user_parents" type="id" />
+</resources>
